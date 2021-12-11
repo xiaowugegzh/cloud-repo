@@ -1,0 +1,5 @@
+server:
+  prot: 1234
+mydata:
+  app:
+    name: user-app
